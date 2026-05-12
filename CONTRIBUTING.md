@@ -13,11 +13,11 @@ If you have found an issue specifically with Purr-suit of Science, which means t
 5) Add the `Bug` tag to the issue.
 6) Click the `Create Issue` button to publish the issue.
 
-By following these steps you can insure that we are able to better respond and possible fix issues that are found by the community.
+By following these steps you can insure that we are able to better respond and possibly fix issues that are found by the community.
 
 ## Contributing Code or Files
 
-For those of you who want to be able contribute by codeing or adding part files, this section is for you. All contributions should be done using and respecting the branch rulesets applied to them. Follow the steps below to start.
+For those of you who want to be able contribute by coding or adding part files, this section is for you. All contributions should be done using and respecting the branch rulesets applied to them. Follow the steps below to start.
 
 1) Create your own fork of the repository.
 2) Create a branch which should be named `[username]/[feature]` where `[username]` is your Github username and `[feature]` is a short, descriptive name of the feature you wish to add.
