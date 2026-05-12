@@ -2,7 +2,7 @@
 
 Purr-suit of Science is intended to be a KSA mod that adds science functionality similar to KSP. However, Purr-suit of Science will have its own unique features that were not in KSP Science.
 
-**License:** GNU General Public License v3.0
+**License:** [GNU General Public License v3.0](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/LICENSE.txt)
 
 ### Dependencies
 
@@ -32,4 +32,6 @@ To install Purr-suit of Science,
 
 ## Contributing
 
-This mod is open to contributions. If you wish to contribute to the project, please read the CONTRIBUTING.md file and follow the instructions there.
+This mod is open to contributions. If you wish to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/CONTRIBUTING.md) file and follow the instructions there.
+
+There is also the [Code of Conduct.md](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/CODE_OF_CONDUCT.md) file for general rules about the project.
