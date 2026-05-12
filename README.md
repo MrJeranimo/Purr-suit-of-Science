@@ -32,6 +32,6 @@ To install Purr-suit of Science,
 
 ## Contributing
 
-This mod is open to contributions. If you wish to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/CONTRIBUTING.md) file and follow the instructions there.
+This mod is open to contributions. If you wish to contribute to the project, please read the [CONTRIBUTING.md](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/.github/CONTRIBUTING.md) file and follow the instructions there.
 
-There is also the [Code of Conduct.md](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/CODE_OF_CONDUCT.md) file for general rules about the project.
+There is also the [Code of Conduct.md](https://github.com/MrJeranimo/Purr-suit-of-Science/blob/master/.github/CODE_OF_CONDUCT.md) file for general rules about the project.
