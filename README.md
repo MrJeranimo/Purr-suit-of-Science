@@ -16,7 +16,7 @@ Some of the basic features Purr-suit of Science will have are,
 
 - Science collection through experiments
 - Technologies that are unlocked through both Science Points and special achievements/tasks
-- A Tech Tree that is more focused around historical progression of Spaceflight technologies.
+- A Tech Tree that is more organized around historical progression of Spaceflight technologies.
 - Most systems being customizable for other mods to add to or change the experience.
 
 This list is not comprehensive and is just some broad examples of features that are or will be in Purr-suit of Science.
