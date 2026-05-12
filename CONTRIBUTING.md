@@ -20,7 +20,7 @@ By following these steps you can insure that we are able to better respond and p
 For those of you who want to be able contribute by coding or adding part files, this section is for you. All contributions should be done using and respecting the branch rulesets applied to them. Follow the steps below to start.
 
 1) Create your own fork of the repository.
-2) Create a branch which should be named `[username]/[feature]` where `[username]` is your Github username and `[feature]` is a short, descriptive name of the feature you wish to add.
+2) Create a branch which should be named `[feature]` where `[feature]` is a short, descriptive name of the feature you wish to add.
 3) Make your changes to the branch. Make sure to test your changes to the repository.
 4) Add all the required files to your new commit. If you had to change the filepaths in the `Purr-suit of Science.csproj` file, please either revert them before the commit or do not add these changes to the commit.
 5) Commit to your branch.
