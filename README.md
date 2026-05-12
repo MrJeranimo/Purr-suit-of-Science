@@ -2,7 +2,7 @@
 
 Purr-suit of Science is intended to be a KSA mod that adds science functionality similar to KSP. However, Purr-suit of Science will have its own unique features that were not in KSP Science.
 
-**License:** unknown
+**License:** GNU General Public License v3.0
 
 ### Dependencies
 
